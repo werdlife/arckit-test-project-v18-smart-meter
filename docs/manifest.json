@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-01T16:00:00Z",
+  "generated": "2026-02-01T17:00:00Z",
   "repository": {
     "owner": "tractorjuice",
     "name": "arckit-test-project-v18-smart-meter",
@@ -73,6 +73,12 @@
           "title": "Data Protection Impact Assessment",
           "category": "Compliance",
           "documentId": "ARC-001-DPIA-v1.0"
+        },
+        {
+          "path": "projects/001-smart-meter-app/ARC-001-DSCT-v1.0.md",
+          "title": "Data Source Discovery",
+          "category": "Discovery",
+          "documentId": "ARC-001-DSCT-v1.0"
         }
       ],
       "diagrams": [],
