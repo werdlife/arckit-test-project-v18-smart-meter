@@ -67,6 +67,12 @@
           "title": "Data Protection Impact Assessment",
           "category": "Compliance",
           "documentId": "ARC-001-DPIA-v1.0"
+        },
+        {
+          "path": "projects/001-smart-meter-app/ARC-001-RSCH-v2.0.md",
+          "title": "Octopus API Research & App API Specification",
+          "category": "Architecture",
+          "documentId": "ARC-001-RSCH-v2.0"
         }
       ],
       "diagrams": [],
